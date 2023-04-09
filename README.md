@@ -33,8 +33,11 @@ Homepage is one of the most important factor which also known by the name of Lan
 
 ![Screenshot (389)](https://user-images.githubusercontent.com/107980582/230779499-9253d45b-700a-4ed3-976b-a591beb78417.png)
 
+![Screenshot (394)](https://user-images.githubusercontent.com/107980582/230780230-6778d43f-47ee-42fc-9a46-a7860aa328ad.png)
+
 
 ### Navbar
+
 
 Navigation Bar is the top most layer or bar of our website. In this bar, you find the Uesr name as well as Your Best Score
 
