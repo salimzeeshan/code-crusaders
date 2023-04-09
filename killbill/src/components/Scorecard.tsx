@@ -14,9 +14,11 @@ const Scorecard = (props: Props) => {
     <div
       style={{
         display: "flex",
+        flexDirection:"column",
         alignItems: "center",
         padding: "10px",
-        background: "red",
+        background: "black",
+        color:"white",
         justifyContent: "space-evenly",
         fontFamily: "cursive",
       }}
