@@ -43,7 +43,7 @@ Homepage is one of the most important factor which also known by the name of Lan
 ### Navbar
 
 
-Navigation Bar is the top most layer or bar of our website. In this bar, you find the Uesr name as well as Your Best Score
+Navigation Bar is the top most layer or bar of our website. In this bar, you find the Uesr name as well as Your Best Score of Your Bird Killing.
 
 
 ## Note![Screenshot (393)](https://user-images.githubusercontent.com/107980582/230779707-7d716678-f75c-4aaf-97b0-36aad05fdc6d.png)
