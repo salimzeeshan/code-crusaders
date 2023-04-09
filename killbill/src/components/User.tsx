@@ -39,12 +39,12 @@ export const User = (props: Props) => {
                 </div>
             </div>
             <div>
-                <Carousel />
+                
             </div>
 
             <div className='text-center'>
                 <Link to="/game">
-                    <button className='btns px-7 py-2 my-5' onClick={handleUser2}>Start</button></Link>
+                    <button className='btns px-7 py-2 my-10' onClick={handleUser2}>Start</button></Link>
             </div>
 
         </div>
