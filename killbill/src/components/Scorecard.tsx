@@ -19,15 +19,15 @@ const Scorecard = (props: Props) => {
         background: "black",
         color:"white",
         justifyContent: "space-evenly",
-        fontFamily: "cursive",
+        
       }}
     >
-      <Text fontSize={"2xl"} fontWeight={"bold"}>
+      <h2>
         User : {user_one_name}
-      </Text>
-      <Text fontSize={"2xl"} fontWeight={"bold"}>
+      </h2>
+      <h2>
         Score: {user_one_points}
-      </Text>
+      </h2>
     </div>
   );
 };
