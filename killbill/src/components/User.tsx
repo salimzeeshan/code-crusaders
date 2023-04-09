@@ -22,7 +22,7 @@ export const User = (props: Props) => {
 
     return (
         <div className='main'>
-            <h3 className='text-xl text-center text-lime-400 break-normal my-5 underline'>Characters</h3>
+            <h3 className='textfront text-xl text-center text-lime-400 break-normal my-5 underline'>Characters</h3>
             <div className="grid-container flex flex-row w-1/2 p-10 m-auto">
 
                 <div className="grid-item basis-1/2">

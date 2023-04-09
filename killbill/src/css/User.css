@@ -1,11 +1,17 @@
-
+@import url('https://fonts.googleapis.com/css2?family=Fruktur&display=swap');
 
 body{
 	margin: 0px;
-	font-family: 'segoe ui';
-    background-color: #4c4b82;
+	/* font-family: 'segoe ui'; */
+   
+    background-color: #1f1f1f;
     overflow: hidden;
     
+}
+.textfront{
+    font-family: 'Fruktur', cursive;
+    color: red;
+    font-size: 40px;
 }
 .main{
     height:700px;
