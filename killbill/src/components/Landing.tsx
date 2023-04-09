@@ -5,8 +5,8 @@ import "../css/Landing.css"
 export const Landings = () => {
     return (
 
-        <div className='body'>
-            <h1 style={{ marginRight: "1000px", color: "Red" }}>Ducks Hunting</h1>
+        <div className='body' style={{marginTop:"30px"}}>
+            <h1 className='gameName'>Kill Bill</h1>
 
             <div className="birds">
 
@@ -77,7 +77,9 @@ export const Landings = () => {
 
 
 
-            <Link to="/user"><button className='star'>Start</button></Link>
+           <div className='startButton'>
+           <Link to="/user"><button className='star'>Start</button></Link>
+           </div>
         </div>
     )
 }

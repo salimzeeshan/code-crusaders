@@ -1,21 +1,29 @@
 
 body {
-	margin: 0px;
+	margin-top: 30px;
 	font-family: 'segoe ui';
     background-color:#4c4b82;
 	height: auto;
+	font-style: oblique;
+	box-shadow: 0 0 0 1px rgba(0, 0, 0, 0.05);
   }
 
 
 .star{
-	background-color: blue;
+	background-color: black;
 	color: #DDDDDD;
 	height: 60px;
 	width: 200px;
 	border-radius: 30px;
 	font-size: 25px;
-	border: 1px solid#192130;
+	font-weight: bold;
+}
+.startButton{
+	/* border: solid green 1px; */
+	width: 300px;
 	margin: auto;
+	text-align: center;
+	margin-top: 50px;
 }
 
 /* /// */
@@ -945,4 +953,11 @@ body {
 	33.81% { z-index: 100; }
 	49.98% { z-index: 0; }
 	94.08% { z-index: 0; }
+}
+
+.gameName{
+	text-align: center;
+	font-weight: bolder;
+	font-size: 30px;
+
 }
