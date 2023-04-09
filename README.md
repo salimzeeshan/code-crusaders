@@ -53,7 +53,7 @@ We using different kinds of the technologies to make this website. These things 
 
  Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.
 
-- [x] Asif Shaikh - https://github.com/AsifShaikh01
+- [x] Asif Shaikh - [GitHub Profile](https://github.com/AsifShaikh01)
 - [x] Satyaranjan Maity - [GitHub Profile](https://github.com/Satyaranjan8414)
 
 
