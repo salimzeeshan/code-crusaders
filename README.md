@@ -54,7 +54,7 @@ This website is fully mobile friendly. You can use this website in mobile, table
 Things Used
 We using different kinds of the technologies to make this website. These things are as follows:
 
-- Javascript,Typescipt,tailwind, CSS, HTML etc.
+- Javascript,Typescript,tailwind, CSS, HTML etc.
 
 ## Contributers
 
