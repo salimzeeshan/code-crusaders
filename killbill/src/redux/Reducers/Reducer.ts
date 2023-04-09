@@ -31,7 +31,7 @@ export interface StateType {
 }
 
 const initialState: StateType = {
-  user_one_name: "Asif",
+  user_one_name: "Satya",
   user_two_name: "",
   background_image:
     "https://cdnb.artstation.com/p/marketplace/presentation_assets/000/829/931/large/file.jpg?1618209335",
