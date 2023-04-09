@@ -8,4 +8,6 @@
   background-repeat: repeat-x;
   background-position: bottom;
   background-size: contain;
+  background-image: url("../assets/img1.jpg");
+  background-blend-mode: multiply;
 }

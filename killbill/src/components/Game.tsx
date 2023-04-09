@@ -13,10 +13,8 @@ const Game = (props: Props) => {
 
   return (
     <div
-      className="outer"
-      style={{
-        backgroundImage: `url(${background_image})`,
-      }}>
+      className=" gmbackground"
+     >
       {/* <CharacterSide /> */}
     </div>
   );
