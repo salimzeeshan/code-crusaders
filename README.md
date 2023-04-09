@@ -55,6 +55,8 @@ We using different kinds of the technologies to make this website. These things 
 
 - [x] Asif Shaikh - [GitHub Profile](https://github.com/AsifShaikh01)
 - [x] Satyaranjan Maity - [GitHub Profile](https://github.com/Satyaranjan8414)
+- [x] Rajat Mujawar - [GitHub Profile](https://github.com/RajatMujawar123)
+- [x] 
 
 
 THANK YOU ❤
