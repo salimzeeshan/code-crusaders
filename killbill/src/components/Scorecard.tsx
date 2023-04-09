@@ -14,7 +14,6 @@ const Scorecard = (props: Props) => {
     <div
       style={{
         display: "flex",
-        flexDirection:"column",
         alignItems: "center",
         padding: "10px",
         background: "black",
