@@ -1,6 +1,7 @@
 import React from 'react'
 import { Link } from 'react-router-dom'
 import "../css/Landing.css"
+import { Img } from '@chakra-ui/react'
 
 export const Landings = () => {
     return (
@@ -9,8 +10,9 @@ export const Landings = () => {
             <h1 className='gameName'>Kill Bill</h1>
 
             <div className="birds">
+                <img src="https://media.tenor.com/8IACY9DoB4MAAAAM/dead-bird.gif" alt="" />
 
-                <div className="birds__hatdove">
+                {/* <div className="birds__hatdove">
                     <div className="birds__hatdove-shadow"></div>
                     <div className="birds__hatdove-head">
                         <div className="birds__hatdove-hat"></div>
@@ -72,8 +74,9 @@ export const Landings = () => {
                         <div className="birds__finger"></div>
                         <div className="birds__circles"></div>
                     </div>
-                </div>
-            </div>
+                </div> */}
+
+                            </div>
 
 
 

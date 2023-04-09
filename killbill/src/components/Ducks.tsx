@@ -18,8 +18,9 @@ import {
   Box,
 } from "@chakra-ui/react";
 import flying from "../assets/flying.gif";
-import { RootState } from "../redux/Store";
+
 import { AddUserOnePoints } from "../redux/Actions/Actions";
+import { RootState } from "../redux/Store";
 
 type Props = {};
 
