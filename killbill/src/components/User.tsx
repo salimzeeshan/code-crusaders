@@ -21,30 +21,30 @@ export const User = (props: Props) => {
     }
 
     return (
-        <div className='rahul'>
-            <h3 style={{ fontSize: "26px", textAlign: "center", color: "black" }}>Characters</h3>
-            <div className="grid-container">
+        <div className='main'>
+            <h3 className='text-xl text-center text-lime-400 break-normal my-5 underline'>Characters</h3>
+            <div className="grid-container flex flex-row w-1/2 p-10 m-auto">
 
-                <div className="grid-item">
-                    <div className='img'><img src="https://img.freepik.com/premium-psd/character-avatar-3d-illustration_460336-706.jpg?w=740" alt="" /></div>
-                    <div className="btn"><button className="btns" onClick={handleUser1}>ArmyChar</button></div>
+                <div className="grid-item basis-1/2">
+                    <div className='img'><img src="https://cdn-icons-png.flaticon.com/128/4140/4140048.png" alt="" /></div>
+                    <div className="btn px-7 py-2 my-5"><button className="btns" onClick={handleUser1}>Me</button></div>
                 </div>
-                <div className="grid-item">
-                    <div className='img1'><img src="https://img.freepik.com/premium-psd/character-avatar-3d-illustration_460336-706.jpg?w=740" alt="" /></div>
-                    <div className="btn1"><button className='btns' onClick={handleUser2}>HeroChar</button></div>
+                <div className="grid-item basis-1/2">
+                    <div className='img'><img src="https://cdn-icons-png.flaticon.com/128/663/663080.png" alt="" /></div>
+                    <div className="btn px-7 py-2 my-5"><button className='btns' onClick={handleUser2}>SuperHero</button></div>
                 </div>
-                <div className="grid-item">
-                    <div className='img1'><img src="https://img.freepik.com/premium-psd/character-avatar-3d-illustration_460336-706.jpg?w=740" alt="" /></div>
-                    <div className="btn1"><button className='btns' onClick={handleUser2}>Zombie</button></div>
+                <div className="grid-item basis-1/2">
+                    <div className='img'><img src="https://cdn-icons-png.flaticon.com/128/742/742863.png" alt="" /></div>
+                    <div className="btn px-7 py-2 my-5"><button className='btns' onClick={handleUser2}>Zombie</button></div>
                 </div>
             </div>
-            <div style={{ marginTop: "250px" }}>
+            <div>
                 <Carousel />
             </div>
 
-            <div style={{ marginLeft: "600px" }}>
+            <div className='text-center'>
                 <Link to="/game">
-                    <button className='btns' onClick={handleUser2}>Start</button></Link>
+                    <button className='btns px-7 py-2 my-5' onClick={handleUser2}>Start</button></Link>
             </div>
 
         </div>
