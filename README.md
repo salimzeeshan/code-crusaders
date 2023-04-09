@@ -32,7 +32,7 @@ Kill Bil webiste looks very amazing and introduced with various type of language
 
 ### Homepage
 
-Homepage is one of the most important factor which also known by the name of Landing Page. There are different kinds of the Features available Please take a looks
+Homepage is one of the most important factor which also known by the name of Landing Page. There are different kinds of the Features available Please take a looks.
 
 ![Screenshot (389)](https://user-images.githubusercontent.com/107980582/230779499-9253d45b-700a-4ed3-976b-a591beb78417.png)
 
