@@ -1,5 +1,5 @@
 ## Project Name - code-crusaders	
-Kilbil is an online game where You have to kill the bird which is flying in the sky before that You have to take the count of the bird.
+Kill bill is an online game where You have to kill the bird which is flying in the sky before that You have to take the count of the bird.
 
 Visit : https://lucky-druid-234e48.netlify.app/
 
@@ -7,7 +7,7 @@ Visit : https://lucky-druid-234e48.netlify.app/
 
 ## Languages Used
 
-caratlane.com webiste looks very amazing and introduced with various type of languages like JavaScript, HTML, CSS etc. There are the some important details regarding with this project which is mentioned below:
+Kill Bil webiste looks very amazing and introduced with various type of languages like JavaScript, HTML, CSS etc. There are the some important details regarding with this project which is mentioned below:
 
 <ul dir="auto">
  <ol dir="auto">◉ TypeScipt : 74.1%</ol>
