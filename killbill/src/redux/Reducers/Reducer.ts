@@ -31,10 +31,10 @@ export interface StateType {
 }
 
 const initialState: StateType = {
-  user_one_name: "IronMan",
+  user_one_name: "Asif",
   user_two_name: "",
   background_image:
-    "https://media.istockphoto.com/id/1359619252/vector/green-meadow-with-white-clouds-summer-green-view-landscape-background-illustration.jpg?s=612x612&w=0&k=20&c=YggMbY3s0TLrIWpzU0fRj0tgc2JrLZti9-3YLnJi5EU=",
+    "https://cdnb.artstation.com/p/marketplace/presentation_assets/000/829/931/large/file.jpg?1618209335",
   user_one_avatar: "",
   user_two_avatar: "",
   user_one_points: 0,

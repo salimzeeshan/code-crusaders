@@ -10,7 +10,7 @@ interface PlayerProps {
 const Player = ({ x, y }: PlayerProps) => {
   return (
     <Image
-      src="./hero.gif"
+      src="https://media.tenor.com/5r0DYyceZ8QAAAAj/pikachu-fire.gif"
       alt="hero"
       style={{
         position: "relative",
